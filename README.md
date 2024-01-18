@@ -134,14 +134,14 @@ console.log(numeroAleatorio);
 
 15. Use o Math.random para gerar um número inteiro entre 1 e 10 e exiba esse número no console. R:
 ```js
-let numeroAleatorio = parseInt(Math.random() * 10) + 1;
+let numero1e10 = parseInt(Math.random() * 10) + 1;
 
-console.log(numeroAleatorio);
+console.log(numero1e10);
 ```
 
 16. Use o Math.random para gerar um número inteiro entre 1 e 1000 e exiba esse número no console. R:
 ```js
-let numeroAleatorio = parseInt(Math.random() * 1000) + 1;
+let numero1e1000 = parseInt(Math.random() * 1000) + 1;
 
-console.log(numeroAleatorio);
+console.log(numero1e1000);
 ```
