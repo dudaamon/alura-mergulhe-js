@@ -1,2 +1,3 @@
-# Desafios do curso "Lógica de programação: mergulhe em programação com JavaScript" da Alura.
+# Lógica de Programação
+Desafios do curso "Lógica de programação: mergulhe em programação com JavaScript" da Alura.
 
